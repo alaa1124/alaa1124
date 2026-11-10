@@ -72,6 +72,7 @@ My interests include:
 - Developing and customizing Odoo ERP solutions.
 - Implementing enterprise business workflows.
 - Working on integrations, reports, and business automation.
+- Developing solutions for construction and transportation business environments.
 
 [Visit ITSS LinkedIn](https://www.linkedin.com/company/itss-c/home/)
 
@@ -80,50 +81,80 @@ My interests include:
 
 - Developed Odoo customizations and backend solutions.
 - Worked on AI-powered applications and chatbot integration.
+- Built intelligent tools to automate business processes.
 
 ### AI Assistant Using ChatGPT
 **May 2023 – September 2024**
 
 - Worked on AI assistant solutions using ChatGPT.
+- Explored AI-powered business automation and integrations.
 
 ### Backend Developer — Freelance
 **January 2023 – May 2023**
 
-- Developed restaurant management and booking systems.
+- Developed restaurant management systems.
+- Built booking and backend applications.
 
 ---
 
 ## 🌟 Featured Projects
 
+My professional experience includes developing and customizing enterprise Odoo ERP solutions, particularly in construction, business management, and workflow automation.
+
+### 🏢 ITSS — Enterprise Odoo Projects
+
+Explore my professional development work and enterprise ERP projects at ITSS.
+
+<p align="center">
+  <a href="https://github.com/itss-beni-c">
+    <img src="https://img.shields.io/badge/ITSS-GitHub%20Organization-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+| Project | Description | Technology |
+|---|---|---|
+| [Altamoinia](https://github.com/itss-beni-c/altamoinia) | Enterprise ERP Solution | Python / Odoo |
+| [Safwa Construction](https://github.com/itss-beni-c/safwa_constrcution) | Construction Management | Python / Odoo |
+| [Delta](https://github.com/itss-beni-c/delta) | Construction ERP Project | Python / Odoo |
+| [Taasses](https://github.com/itss-beni-c/taasses) | ERP Customization | Python / Odoo |
+| [Fayez 16](https://github.com/itss-beni-c/fayez_16) | Odoo ERP Project | Python / Odoo |
+| [Rakaez Construction](https://github.com/itss-beni-c/rakaez_constrcution) | Construction ERP | Python / Odoo |
+| [Elsafwa](https://github.com/itss-beni-c/elsafwa) | ERP Development | Python / Odoo |
+| [Construction Unified](https://github.com/itss-beni-c/construction-unified) | Unified Construction Solution | Python / Odoo |
+| [Optes19](https://github.com/itss-beni-c/optes19) | Odoo 19 Implementation | Python / Odoo |
+| [Autism](https://github.com/itss-beni-c/autism) | Attendance Request System | Python / Odoo |
+
 ### 🤖 Smart Chat Assistant for Odoo
 
-An AI-powered assistant integrated with Odoo that enables users to interact with business data through natural language.
+An AI-powered assistant integrated with Odoo, designed to simplify business data analysis, reporting, and daily operations through natural language conversations.
 
-- Query business information through chat.
-- Perform actions such as creating invoices and updating records.
-- Display results in structured tables.
-- Export results to Excel.
+**Key Features:**
 
-### 🏢 Enterprise ERP Solutions
+- 💬 Natural language interaction with Odoo business data.
+- 🔍 Intelligent data querying and analysis.
+- 🧾 Perform business actions such as creating invoices and updating records.
+- 📊 Display query results in structured and interactive tables.
+- 📥 Export results to Excel for further analysis.
+- 🔗 Seamless integration with Odoo business workflows.
 
-Experience developing and customizing Odoo solutions for construction and business management environments.
-
-- Custom business workflows.
-- ERP module development.
-- Sales, purchasing, inventory, and accounting processes.
-- Business-specific reporting and automation.
+**Technologies:** Python, Odoo, PostgreSQL, OpenAI API, AI / LLM Integration.
 
 ### 💊 Taklef Saydla — Graduation Project
 
 A computerized pharmaceutical management system developed as a bachelor's graduation project.
 
-### 📊 Odoo Reporting & Analytics
-
-Development of reporting solutions, including Sale Profit Analysis and dynamic PDF reports.
-
 ### 🔊 Audio Deepfake Detection
 
 An AI and data science project developed during the Digital Egypt Builders Initiative program.
+
+### 📊 Odoo Reporting & Analytics
+
+Development of reporting solutions, including:
+
+- Sale Profit Analysis with Odoo 17.
+- Dynamic PDF reports.
+- Business data visualization.
+- Automated reporting solutions.
 
 ---
 
